@@ -115,14 +115,6 @@ cd backend
 npm install
 ```
 
-Create a `.env` file inside the `backend` folder:
-
-```env
-MONGO_URI=mongodb://127.0.0.1:27017/task_management_system
-JWT_SECRET=your_secure_jwt_secret
-PORT=5000
-```
-
 Start the backend development server:
 
 ```bash
